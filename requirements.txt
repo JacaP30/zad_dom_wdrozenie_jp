@@ -2,4 +2,3 @@ pandas
 pycaret
 plotly
 streamlit
-json
