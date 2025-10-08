@@ -76,7 +76,7 @@ predicted_cluster_data = cluster_names_and_descriptions[predicted_cluster_id] # 
 # title w kolorze niebieskim
 
 st.markdown("""
-<span style='color:#4e61f3ff; font-size: 40px; font-weight: bold;'>Znajdź znajomych wśród uczestników kursu z pomocą AI</span>
+<span style='color:#4e61f3ff; font-size: 50px; font-weight: bold;'>Znajdź znajomych wśród uczestników kursu z pomocą AI</span>
 """, unsafe_allow_html=True)
 st.markdown("Aplikacja wykorzystuje model klastrowania do znalezienia osób o podobnych zainteresowaniach i cechach demograficznych.")
 
