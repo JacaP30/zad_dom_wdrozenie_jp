@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd # type: ignore
 from pycaret.clustering import load_model, predict_model # type: ignore
 import plotly.express as px # type: ignore
-from streamlit_option_menu import option_menu 
 
 
 # GŁÓWNA APLIKACJA 
